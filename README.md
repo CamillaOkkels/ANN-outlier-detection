@@ -6,7 +6,7 @@ This repository contains the code and infrastructure to reproduce the experiment
 
 Please cite this paper if you found it useful. 
 
-Please find the implementation in <./hsnwlib>, and the evaluation infrastructure in <./evaluation>.
+Please find the implementation in <https://github.com/CamillaOkkels/ANN-outlier-detection/hsnwlib>, and the evaluation infrastructure in <https://github.com/CamillaOkkels/ANN-outlier-detection/evaluation>.
 
 
 # Credits
