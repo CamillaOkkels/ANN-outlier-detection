@@ -6,6 +6,8 @@ This is the modified implementation of HNSW from the paper
 
 The methods described in that paper are exposed through the Python API as `index.detect_outliers(contrast)`. 
 
+You can build the Python package by running `pip install .`.
+
 A small example for a 2d-numpy array is
 
 ```python
