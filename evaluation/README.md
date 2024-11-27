@@ -9,7 +9,12 @@ Please run `pip install -r requirements.txt` to install these dependencies.
 
 ## Data preparation
 
-**describe how to obtain all the datasets**
+The experiments were run on two sets of data, one found from the AdBench repository and the other from the Kitsune library.
+
+The AdBench datasets can be found here: https://github.com/Minqi824/ADBench/tree/main 
+under adbench/datasets/Classical/
+
+The Kitsune datasets can be found and downloaded from here: https://archive.ics.uci.edu/dataset/516/kitsune+network+attack+dataset
 
 ## Experiments
 
