@@ -20,8 +20,6 @@ The Kitsune datasets can be found and downloaded from here: https://archive.ics.
 
 You can carry out all experiments in the paper by running `bash experiments.sh`.
 
-**what does the user have to do after running the experiments? move some csv files around**?
-
 This will create the individual csv files that are used in the analysis. The evaluation is present in the jupyter notebook `evaluation/`.
 The jupyter notebook 'evaluation/' also creates and reads the file critddiagram.csv from which the critddiagram.tex file is created - this file contains code to create the critical difference plot in a LaTeX document.
 
